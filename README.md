@@ -7,6 +7,10 @@
 - 📫 Se alguém tiver interesse, pode entrar em contato comigo pelos links sociais ou no Zello: junior.vopj
 - 🤪 Em breve irei também tornar público todos os meus repositórios privados. Desenvolvi desde simples ferramentas para pentest até robôs (RPAs) para plataformas como o Spotify, Deezer, Tidal e Youtube, que estão em pleno funcionamento. #05-2024
 
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 ### Ouvindo no Spotify 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31uord4nilwco5pdbpcia7y5lb7y)
