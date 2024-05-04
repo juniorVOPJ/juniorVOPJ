@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://vopj.dev.br/github/spotify.gif" />
+<img align="right" alt="GIF" height="170px" src="https://github.com/juniorVOPJ/juniorVOPJ/blob/main/assets/spotify.gif" />
 
 ### Ouvindo no Spotify 🎧
 
