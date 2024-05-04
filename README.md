@@ -46,18 +46,16 @@
 Última atualização: 03 de maio de 2024 | 08:00:55
 
 <hr>
-<p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanck22&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> -->
 
-<table cellpadding="0">
+<table cellpadding="0" border="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=juniorVOPJ&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanck22&layout=compact&theme=radical&custom_title=Languages"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorVOPJ&layout=compact&theme=radical&custom_title=Linguagens"/></td>
   </tr>
 </table>
