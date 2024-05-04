@@ -48,7 +48,7 @@
 <hr>
 
 <table cellpadding="0" style="{border:0px solid transparent;} ">
-  <tr style="padding: 0">
+  <tr style="padding: 0; border:0px solid transparent;">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=juniorVOPJ&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
