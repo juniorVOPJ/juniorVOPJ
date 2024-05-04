@@ -41,19 +41,19 @@
 
 ![Snake animation](https://github.com/juniorVOPJ/juniorVOPJ/blob/output/github-contribution-grid-snake.svg)
 
-# Status
-
-Última atualização: 03 de maio de 2024 | 08:00:55
-
-<hr>
-
-<table cellpadding="0" style="{border:0px solid transparent;}">
-  <tr style="padding: 0; border:0px solid transparent !important;">
-    <!-- GitHub Stats Card -->  
-    <td valign="top" style="{border:0px solid transparent;}"><img height="200" src="https://github-readme-stats.vercel.app/api?username=juniorVOPJ&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top" style="{border:0px solid transparent;}"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorVOPJ&layout=compact&theme=radical&custom_title=Linguagens"/></td>
-  </tr>
+<table cellpadding="0">
+    <tr style="padding: 0;">
+        <td valign="top">
+            <img height="200" src="https://github-readme-stats.vercel.app/api?username=juniorVOPJ&show_icons=true&theme=radical#gh-dark-mode-only"/>
+        </td>
+        <td valign="top">
+            <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorVOPJ&layout=compact&theme=radical&custom_title=Linguagens"/>
+        </td>
+    </tr>
 </table>
 
 [![juniorVOPJ's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juniorVOPJ&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# Status
+
+Última atualização: 03 de maio de 2024 | 08:00:55
