@@ -1,3 +1,9 @@
+<a href="https://github.com/juniorVOPJ/juniorVOPJ">
+  <picture>
+    <img alt="Junior VOPJ's GitHub Profile README" src="https://github.com/juniorVOPJ/juniorVOPJ/blob/main/assets/banner.png">
+  </picture>
+</a>
+
 ### E aí pessoal 👋
 
 **juniorVOPJ/juniorVOPJ**
