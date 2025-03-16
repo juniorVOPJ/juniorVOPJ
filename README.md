@@ -52,8 +52,8 @@
 
 [![juniorVOPJ's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juniorVOPJ&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://raw.githubusercontent.com/juniorVOPJ/juniorVOPJ/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/juniorVOPJ/juniorVOPJ/output/github-contribution-grid-snake-dark.svg)
 
 # Status
 
-Última atualização: 03 de maio de 2024 | 08:00:55
+Última atualização: 16 de março de 2025 | 07:37:51
