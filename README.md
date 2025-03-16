@@ -52,7 +52,7 @@
 
 [![juniorVOPJ's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juniorVOPJ&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/juniorVOPJ/juniorVOPJ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/juniorVOPJ/juniorVOPJ/output/github-contribution-grid-snake.svg)
 
 # Status
 
