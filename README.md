@@ -46,9 +46,6 @@ Engenheiro de Software registrado no CREA-GO e Tecnólogo em Defesa Cibernética
 <table cellpadding="0">
     <tr style="padding: 0;">
         <td valign="top">
-            <img height="200" src="https://github-readme-stats.vercel.app/api?username=juniorVOPJ&show_icons=true&theme=radical#gh-dark-mode-only"/>
-        </td>
-        <td valign="top">
             <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorVOPJ&layout=compact&theme=radical&custom_title=Linguagens"/>
         </td>
     </tr>
