@@ -41,9 +41,7 @@ Engenheiro de Software registrado no CREA-GO e Tecnólogo em Defesa Cibernética
 <br/>
 <br/>
 
-# Evolução:
-
-[![juniorVOPJ's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juniorVOPJ&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# Contribuição:
 
 ![Snake animation](https://raw.githubusercontent.com/juniorVOPJ/juniorVOPJ/output/github-contribution-grid-snake-dark.svg)
 
